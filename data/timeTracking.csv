@@ -1,0 +1,186 @@
+days,project,lab,description,inLabDB,notes,name,month
+7.5,Sound Life,Speake,"True Culture components Analysis
+Cytof Modules and Flu Analysis
+Interferon Response Analysis for Adam",YES,,Alex Hu,2023-01-01
+7,Trex,Long,"P454, P455
+Bulk C-peptide response analysis
+Bulk Fold expansion analysis
+Single Cell PBMC cluster analysis",YES,,Alex Hu,2023-01-01
+5,Tox Cut&Run,Harrison,"Tox vs. IgG Analysis, in in-vitro GC cells
+QC visualizations
+Enrichment of B-cell subset signatures in Tox binding sites",YES,,Alex Hu,2023-01-01
+1,Shingrix,Kwok,"P261
+Miscellaneous statistics and plots for the paper",YES,,Alex Hu,2023-01-01
+0.5,DEI Committee,,"Meetings, Focus groups, research",NO,,Alex Hu,2023-01-01
+0.5,Vacation,,Vacation,NO,,Alex Hu,2023-01-01
+0.5,TIP-RA,Buckner,"P359
+
+TIP-RA Lentiviral Insert construction",NO,,Alex Hu,2023-01-01
+7,Sound Life,Speake,"1. WGCNA and PCA analysis on Tru Culture data
+2. Cytof analysis of Flu Response ",YES,,Alex Hu,2023-02-01
+1.5,Trex,Long,Re-defining and visualizing groups and gene signatures related to fold-expansion and how these relate to C-peptide response.,YES,,Alex Hu,2023-02-01
+5,Plasmodium Rhapsody,Hamerman,"1. Ran Velocyto and looked at differences in velocities between cell subsets.
+2. Tried to run Pathseq, but it&#x27;s still in progress
+3. Got help from BD to re-align data to updated fluorescent Neon sequences.",YES,,Alex Hu,2023-02-01
+5,Tox Cut&Run,Harrison,"QC analysis and differential binding analysis, put together presentation for Systems Immunology.",YES,,Alex Hu,2023-02-01
+2.5,TN10 P338,James,"QC analysis, UMAP&#x2F;Clustering analysis, and Pseudobulk analysis looking for differences between Placebo and Teplizumab treated cells.",YES,,Alex Hu,2023-02-01
+3,Trex,Long,P455- Generating Shiny Apps for clustering PBMCs and CD4 T-cells and exporting figures for them.,NO,,Alex Hu,2023-03-01
+1,Plasmodium Rhapsody,Hamerman,Re-generating more granular sub-clusters to characterize macrophage subtypes and characterizing them by RNA Velocity,NO,,Alex Hu,2023-03-01
+3,Tox Cut&Run,Harrison,"Re-generating peaks with background subtracting using Seacr, running motif enrichment analysis, and differential binding analysis (Tox vs. IgG, GC vs. Naive) with revised consensus peaks (excluding H3K4ME samples).",NO,,Alex Hu,2023-03-01
+1,Sick,,"Sick Day
+",NO,,Alex Hu,2023-03-01
+6.5,Sound Life,Speake,"Clustering donors based on their Cytof flu response and relating that to Cytof immunospace
+
+Relating the WGCNA modules computed in Tru Culture to Cytof immunospace with various models",NO,,Alex Hu,2023-03-01
+2,Shingrix,Kwok,Meetings and revising figures&#x2F;writing figure legends for the paper,NO,,Alex Hu,2023-03-01
+1.5,TN10 P338,James,"Making figures with basic TCR statistics, UMAP and batch-correction exploration of scRNASeq data, and pseudobulk modeling for DE analysis between time points and specificities.",NO,,Alex Hu,2023-03-01
+0.5,Journal Club,BioInformatics Core,Preparing a presentation for Journal Club on the Dandelion software package.,NO,,Alex Hu,2023-03-01
+1,Miscellaneous,BioInformatics Core,"1. Preparing gene lists for Kaz related to CD4 protein translation (extension of P356)
+2. P438- making simple model to distinguish trisomy 21 cells from disomy 21 cells for Bernard Khor
+3. Meetings not associated with my main projects",NO,,Alex Hu,2023-03-01
+2,Holiday,,,NA,,Alex Walker,2023-01-01
+2,Vacation,,,NA,,Alex Walker,2023-01-01
+5,Coupa,,,NO,,Alex Walker,2023-01-01
+10,Sample Repository,,,NO,,Alex Walker,2023-01-01
+3,Lab DB,,file upload util,YES,,Alex Walker,2023-01-01
+20,,,,NA,,Alex Walker,2023-03-01
+1,P421-1,Kwok,CATNIP project,YES,,Basilin Benson,2023-01-01
+8,P210,Altman,CRITICAL project,YES,,Basilin Benson,2023-01-01
+8,Pipeline,BioInformatics Core,"Pipeline development and debugging ",NA,,Basilin Benson,2023-01-01
+3,P506-1,Lacy-Hulbert,Macrophage Immune Training Project,YES,,Basilin Benson,2023-01-01
+1,P506-1,Lacy-Hulbert,P506-1 IFN-I training in human macrophages,YES,,Basilin Benson,2023-02-01
+2,P507-1,Lacy-Hulbert,P507-1 ATACseq  IFN-I training in human macrophages,YES,,Basilin Benson,2023-02-01
+3,P513-1,Altman,Interferon response kinetics of airway epithelial cells,YES,,Basilin Benson,2023-02-01
+3,P421-1,Kwok,CATNIP,YES,,Basilin Benson,2023-02-01
+9,P210,Altman,CRITICAL,YES,,Basilin Benson,2023-02-01
+3,Pipeline,BioInformatics Core,,NA,,Basilin Benson,2023-02-01
+3,P509-1,Speake,Whole Blood RNAseq of Pediatric Anesthesia Response,YES,,Basilin Benson,2023-03-01
+2,P507-1,Lacy-Hulbert,P507-1 ATACseq IFN-I training in human macrophages,YES,,Basilin Benson,2023-03-01
+7,P513-1,Altman,ALI culture data,YES,,Basilin Benson,2023-03-01
+3,P421-1,Kwok,CATNIP,YES,,Basilin Benson,2023-03-01
+3,P210,Altman,CRITICAL,YES,,Basilin Benson,2023-03-01
+2,Pipeline,BioInformatics Core,,NA,,Basilin Benson,2023-03-01
+8,,BioInformatics Core,,NA,,Charlie Quinn,2023-01-01
+1,Astellas house dust mite,Wambre,Analysis and generation of a summary table to be shared with Astellas.,YES,,Hannah Deberg,2023-03-01
+2,Meetings,BioInformatics Core,"Standard bfx meetings, catching up with bioinformaticians, meeting with Taylor about Lord lab analysis. ",NA,,Hannah Deberg,2023-03-01
+1,COVID vaccine study,VM Aboulafia,"Checking manuscript draft numbers, meeting briefly with VM docs and sending a first draft of figures for the manuscript.",YES,,Hannah Deberg,2023-03-01
+0.5,NCI cancer study,Linsley,"Locating data that Peter requested. Attending a meeting. ",YES,"Peter had been confused from some P365-1 data in the folders I had shared with him when he went looking for P365-4 data. The parent P365 Box folder contained both -1 and -4 and the raw data object was too large to be loaded into lab DB (but the code associated with it which opened the data file could have been found there). It took a bit for me to realize that what he wanted was the -4 data. ",Hannah Deberg,2023-03-01
+0.5,Misc,Wambre,"Regeneron data - locating basophil data, meeting with Anne and then realizing the DTS for this data wasn&#x27;t ready yet. 
+COUR house dust mite study - reaching out about this. 
+Wambre lab meeting.",NO,,Hannah Deberg,2023-03-01
+2,sick leave,BioInformatics Core,,NA,,Matthew Dufort,2023-02-01
+0.5,miscellaneous small requests,BioInformatics Core,,NA,,Matthew Dufort,2023-02-01
+6.25,"admin, seminars, meetings",BioInformatics Core,Unusually high this month due to additional project management responsibilities during Hannah&#x27;s leave.,NA,,Matthew Dufort,2023-02-01
+1.5,sequence data processing,BioInformatics Core,"Includes assisting Matt Lawrance on 10x processing, and investigation of capture rates in 10x to provide guidance for future experiments.",NA,,Matthew Dufort,2023-02-01
+1.75,SLE FcaR project,Hamerman,"Hayley Waterman&#x27;s project on flow, autoantibodies, and bulk RNAseq in SLE (P379)",YES,,Matthew Dufort,2023-02-01
+1.25,Bioinformatics mentoring,BioInformatics Core,Mentoring junior bioinformaticians. Tracked separately from other admin tasks.,NA,,Matthew Dufort,2023-02-01
+1.5,Exhausted T cells and HLA,Long,"Analysis of additional RNAseq datasets, comparing expression of exhaustion-related genes between HLA types",YES,,Matthew Dufort,2023-02-01
+0.75,Sound Life Project Immunotype Analysis,Speake,,YES,,Matthew Dufort,2023-02-01
+2,T1D progression antigen-specific T cell scRNAseq,Cerosaletti,Analysis of single-cell RNAseq data from antigen-specific cells in subjects with varying numbers of autoantibodies. P474. https:&#x2F;&#x2F;labdb.benaroyaresearch.org&#x2F;web&#x2F;study&#x2F;BSE0001661,YES,,Matthew Dufort,2023-02-01
+1.75,Skin inflammation spatial transcriptomics,Morawski,"Analysis of public datasets and connection to in-house datasets, as preliminary data for Morawski grant. https:&#x2F;&#x2F;labdb.benaroyaresearch.org&#x2F;web&#x2F;study&#x2F;BSE0001660",YES,"This project is grant support, which I believe is sometimes billed differently than ongoing analyses.",Matthew Dufort,2023-02-01
+0.5,BMS Amplify 10x,Buckner,"Providing guidance on experimental design, data not yet collected.",YES,,Matthew Dufort,2023-02-01
+0.5,Pediatric anesthesia RNAseq,Speake,"Providing guidance on experimental design, selecting control subjects. This effort was primarily in relation to the PD-L1 deletion add-on experiment, which could perhaps be considered a different project.",YES,,Matthew Dufort,2023-02-01
+0.25,Cytometry analysis tool evaluation,BioInformatics Core,"Meeting with Ozette, discussions about possible tools to use for automated analysis of cytometry data.",NO,,Matthew Dufort,2023-02-01
+0.25,Down syndrome 10x,Khor,Discussions with Bernard about differentiating T cells with disomy vs. trisomy 21. Handed off to Alex Hu. https:&#x2F;&#x2F;labdb.benaroyaresearch.org&#x2F;web&#x2F;study&#x2F;BSE0001566,YES,,Matthew Dufort,2023-02-01
+0.25,T1D T stem cell memory project,Cerosaletti,Reviewing and monitoring requests for data from ITN.,YES,,Matthew Dufort,2023-02-01
+4.5,"admin, seminars, meetings",BioInformatics Core,,NA,,Matthew Dufort,2023-03-01
+0.25,miscellaneous small requests,BioInformatics Core,,NA,,Matthew Dufort,2023-03-01
+1,sequence data processing,BioInformatics Core,"Includes time on 10x capture rates, 10x processing, and disk space usage on Isilon",NA,,Matthew Dufort,2023-03-01
+0.25,SLE FcaR project,Hamerman,,YES,,Matthew Dufort,2023-03-01
+1,Bioinformatics mentoring,BioInformatics Core,,NA,,Matthew Dufort,2023-03-01
+0.75,Sound Life Project Immunotype Analysis,Speake,,YES,,Matthew Dufort,2023-03-01
+0.25,T1D progression antigen-specific T cell scRNAseq,Cerosaletti,,YES,,Matthew Dufort,2023-03-01
+8,Skin inflammation spatial transcriptomics,Morawski,,YES,,Matthew Dufort,2023-03-01
+0.125,Pediatric anesthesia RNAseq,Speake,,YES,"Project mostly transferred to Basilin, some time on oversight and communications",Matthew Dufort,2023-03-01
+0.375,Cytometry analysis tool evaluation,BioInformatics Core,,NO,,Matthew Dufort,2023-03-01
+0.75,Down syndrome PhIP-seq,Khor,Analyses of PhIP-seq autoantibody data in Down syndrome and control subjects,YES,,Matthew Dufort,2023-03-01
+0.75,BMS Amplify 10x,Buckner,,YES,,Matthew Dufort,2023-03-01
+0.5,Flightless-1 knockout macrophage RNAseq,Hamerman,RNAseq of alveolar macrophages from mice with Flii gene knockout,YES,,Matthew Dufort,2023-03-01
+0.25,SFB T cell 10x,Harrison,Analysis of 10x data generated from T cells sorted from the intestine of mice colonized with SFB,YES,,Matthew Dufort,2023-03-01
+0.75,BMS Early AMPLE Trial CyTOF,Buckner,Analyses of CyTOF data from the BMS Early AMPLE trial of abatacept and adalimumab in rheumatoid arthritis.,YES,,Matthew Dufort,2023-03-01
+0.25,DNA-tagged pMHC complexes in 10x,Kwok,Analyses of 10x data from cells stained with DNA-barcoded peptide-MHC tetramers (P487).,YES,"Analyses primarily performed by Matt Lawrance, I am providing guidance and oversight.",Matthew Dufort,2023-03-01
+0.25,Tox CUT&RUN,Harrison,Analyses of CUT&amp;RUN data using the transcription factor Tox in mouse B cells,YES,"Alex Hu is primarily conducting analyses, I am providing guidance and input on analyses.",Matthew Dufort,2023-03-01
+3,Admin,BioInformatics Core,,NA,,Matthew Lawrance,2023-01-01
+1.5,Challenge Course Series,BioInformatics Core,Prep and execution of January&#x27;s Meeting (five participants) and Prep for February&#x27;s material.,NA,,Matthew Lawrance,2023-01-01
+5,P458-1/2,Mikacenic,"Manuscript support, editing supplemental and method sections of paper, producing figures, RNA velocity analysis and WIP support.",YES,,Matthew Lawrance,2023-01-01
+0.5,P487-1/2/3/4,Kwok,"Meetings regarding tetramer cutoffs and initial analyses and QC of -3 and -4
+",YES,,Matthew Lawrance,2023-01-01
+1.5,P471-1,Campbell,RNA velocity and subsequent analyses.,YES,,Matthew Lawrance,2023-01-01
+0.5,Covid_Ada,Speake,"Multiple meetings with Megan&#x2F;Matt D&#x2F;Colin, troubleshooting Colin&#x27;s code and curating input data.",NO,Still cannot find an appropriate entry for this on Lab DB -- no project number I know of to facilitate a new entry. Will ask Vivian&#x2F;Megan.,Matthew Lawrance,2023-01-01
+3,Pipeline,BioInformatics Core,"10x processing of 511-1, P487-4, 500-1 part 2 with ATAC dataset. Investigation of 511-1 fixed data (rerunning with forced-cells and subsequent analysis).",NA,,Matthew Lawrance,2023-01-01
+1,Sick,None,,NA,,Matthew Lawrance,2023-01-01
+4,Vacation,None,,NA,,Matthew Lawrance,2023-01-01
+1,Sick,None,,NA,,Matthew Lawrance,2023-02-01
+4.5,Admin,BioInformatics Core,Inc - literature review of RNA velocity,NA,,Matthew Lawrance,2023-02-01
+2,P511-1,Mikacenic,QC on Fixed RNA and initial analyses and discussions.,YES,,Matthew Lawrance,2023-02-01
+1.5,Challenge Course Series,BioInformatics Core,"Setting up February Challenge, answering questions and support, running the luncheon, code annotation.",NA,,Matthew Lawrance,2023-02-01
+0.5,Gilead Analysis,Lord,Supporting Taylor with weekly meetings.,NO,Does not appear in Lab DB as &#x27;Gilead&#x27;. Do not think Taylor has access to lab DB so the &#x27;analyst&#x27; on this one might not be able to update it. Will ask for files and links from Taylor and update.,Matthew Lawrance,2023-02-01
+4,P458-1/2,Mikacenic,,YES,,Matthew Lawrance,2023-02-01
+2,Covid_Ada,Speake,Finished analyses of Diabetic vs non-diabetic at baseline.,YES,,Matthew Lawrance,2023-02-01
+1,P465,Hamerman,"Ran velocyto for spliced unspliced bams and passed on to analyst (Alex), provided additional follow up support with project.",YES,,Matthew Lawrance,2023-02-01
+1,P487-1/2/3/4,Kwok,Working on getting convincingly positively called antigen specific cells.,YES,,Matthew Lawrance,2023-02-01
+3.5,P471-1,Campbell,"Meeting regarding RNA analyses, follow on analyses, PBS ran velocity, state transition analyses (done for clusters, still working on single cell)",YES,,Matthew Lawrance,2023-02-01
+1.5,,None,"Sick leave
+",NA,,Matthew Lawrance,2023-03-01
+1.5,Covid_Ada,Speake,,YES,,Matthew Lawrance,2023-03-01
+6,Admin,BioInformatics Core,"Systems Imm presentation, labDB updates and documenting, various meetings on 10x and processing, various assists (dandelion etc).",NA,,Matthew Lawrance,2023-03-01
+3,P487-1/2/3/4,Kwok,,YES,,Matthew Lawrance,2023-03-01
+1.5,P471-1,Campbell,"RNA velocity additions, PAGA graph and transition state analyses",YES,,Matthew Lawrance,2023-03-01
+1,,BioInformatics Core,P516-1 10x pipeline processing,NA,,Matthew Lawrance,2023-03-01
+2,Sea-Col Lymphocytes,Mikacenic,New project -- will add as child project under 458 as that&#x27;s where our data is coming from on this one.,NO,,Matthew Lawrance,2023-03-01
+1.5,P458-1/2,Mikacenic,,YES,,Matthew Lawrance,2023-03-01
+2,Challenge Course Series,BioInformatics Core,,NA,,Matthew Lawrance,2023-03-01
+5,IMPACC,Altman,,YES,,Naresh Doni Jayavelu,2023-01-01
+5,P426/P427 ALI 10X,Altman,,YES,,Naresh Doni Jayavelu,2023-01-01
+8,CAUSE,Altman,,NO,Matt A. would add project description.,Naresh Doni Jayavelu,2023-01-01
+2,Vacation,None,,NA,,Naresh Doni Jayavelu,2023-01-01
+15,IMPACC,Altman,,YES,,Naresh Doni Jayavelu,2023-02-01
+5,CAUSE,Altman,,YES,,Naresh Doni Jayavelu,2023-02-01
+1,P426/P427 ALI 10X,Altman,,YES,,Naresh Doni Jayavelu,2023-02-01
+5.5,IMPACC,Altman,,YES,,Naresh Doni Jayavelu,2023-02-01
+5.5,IMPACC,Altman,,YES,,Naresh Doni Jayavelu,2023-03-01
+4.5,P426/P427 ALI 10X,Altman,,YES,,Naresh Doni Jayavelu,2023-03-01
+5,CAUSE,Altman,,YES,,Naresh Doni Jayavelu,2023-03-01
+5,Vacation,None,,NA,I was out from 03&#x2F;06&#x2F;2023 to 03&#x2F;10&#x2F;2023.,Naresh Doni Jayavelu,2023-03-01
+2,Holiday,,,NA,,Robyn Meshulam,2023-01-01
+2.3,meetings,BioInformatics Core,,NA,,Stephan Pribitzer,2023-01-01
+1.1,admin,BioInformatics Core,,NA,,Stephan Pribitzer,2023-01-01
+2.9,pipeline ops,BioInformatics Core,,NA,,Stephan Pribitzer,2023-01-01
+2.9,pipeline dev,BioInformatics Core,,NA,,Stephan Pribitzer,2023-01-01
+7,PTO/vacation/sick,,,NA,,Stephan Pribitzer,2023-01-01
+3.2,DKA prediction shiny app,Speake,,NA,,Stephan Pribitzer,2023-01-01
+2.6,flow cytometry pipeline,BioInformatics Core,,NA,,Stephan Pribitzer,2023-01-01
+3.1,meetings,BioInformatics Core,,NA,,Stephan Pribitzer,2023-02-01
+1.5,admin,BioInformatics Core,,NA,,Stephan Pribitzer,2023-02-01
+0.6,pipeline ops,BioInformatics Core,,NA,,Stephan Pribitzer,2023-02-01
+0.1,pipeline dev,BioInformatics Core,,NA,,Stephan Pribitzer,2023-02-01
+0.5,PTO/vacation/sick,BioInformatics Core,,NA,,Stephan Pribitzer,2023-02-01
+0.9,DKA prediction shiny app,Speake,,NA,,Stephan Pribitzer,2023-02-01
+4.8,P503-1 MS ATAC,Buckner,,YES,,Stephan Pribitzer,2023-02-01
+9.5,flow cytometry pipeline,BioInformatics Core,,NA,,Stephan Pribitzer,2023-02-01
+2.5,meetings,BioInformatics Core,,NA,,Stephan Pribitzer,2023-03-01
+1.5,admin,BioInformatics Core,,NA,,Stephan Pribitzer,2023-03-01
+1.4,pipeline ops,BioInformatics Core,,NA,,Stephan Pribitzer,2023-03-01
+1.8,pipeline dev,BioInformatics Core,,NA,,Stephan Pribitzer,2023-03-01
+3,PTO/vacation/sick,BioInformatics Core,,NA,,Stephan Pribitzer,2023-03-01
+3.4,flow cytometry pipeline,BioInformatics Core,,YES,,Stephan Pribitzer,2023-03-01
+1.1,P425-4 skin ATAC inflammation,Campbell,,YES,,Stephan Pribitzer,2023-03-01
+1.9,P503-1 MS ATAC,Buckner,,YES,,Stephan Pribitzer,2023-03-01
+3,FOCIS workshop,BioInformatics Core,,NA,,Stephan Pribitzer,2023-03-01
+0.4,BAP debugging,BioInformatics Core,,NA,,Stephan Pribitzer,2023-03-01
+1,"P168, P325",Cerosaletti,"Helped with 2 data transfers to ITN for Karen ",NO,,Stephanie Osmond,2023-03-01
+4,P464,Altman,"Started working on P464 project (COVID19 vaccine allergy data). Performed and discussed QC analysis, prepared dataset for DEG analysis.",YES,,Tomasz Janczyk,2023-01-01
+3,P358,Altman,P358 (APIC asthma study) QC before sending to a collaborator. Found and discussed potential dataset issues.,YES,,Tomasz Janczyk,2023-01-01
+10,P451,Altman,"P451 (URECA) - worked on subgroup analysis (cross analysis between rhinitis - respiratory phenotypes).
+
+Continued discussions on approach how to present big networks&#x2F;enrichment analysis in a readable, concise way and then prepared plots for both of them. 
+
+Prepared slides with final analysis for current manuscript (Longitudinal Analysis of Rhinitis in an Urban Birth Cohort).
+Prepared slides for subgroup analysis. Both were presented and discussed with the URECA group - subgroup analysis for the first time.",YES,,Tomasz Janczyk,2023-01-01
+10,P464,Altman,"Several clinical data issues were found and reported to NIH and Rho. Both were notified about that. Performed analysis and were looking for transcriptomic signal in the data. Created supplementary figures.
+Updates about findings were sent to NIH&#x2F;Rho. Analysis will probably be needed to rerun once the clinical metadata is scrutinized",YES,,Tomasz Janczyk,2023-02-01
+7,P451,Altman,"Prepared analysis and slides for URECA clinical group meeting. Analyzed data across rhinitis and lower airways phenotypes. Compared different models. Created supplementary figures visualizing and supporting findings. Presented some enrichment results for different gene sets found during analysis.
+Rho statisticians derived variables for only wheezing phenotypes and data analysis using it was started (in progress)",YES,,Tomasz Janczyk,2023-02-01
+12,,Altman,MUPPITS2 transcriptomics data used to analyse module expression in cold&#x2F;sickness periods for patients treated with mepolizumab and placebo. Draft of manuscript will be soon written around the analysis,YES,,Tomasz Janczyk,2023-03-01
+5,P216-2,Altman,"URECA nasal samples. Analysis comparing rhinitis and wheeze patients. ",YES,,Tomasz Janczyk,2023-03-01
+1,P464,Altman,"Meeting with Rho and addressing ITN covid vaccine data issues with new metadata provided ",YES,,Tomasz Janczyk,2023-03-01
